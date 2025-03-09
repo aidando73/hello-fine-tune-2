@@ -1,3 +1,4 @@
 datasets
 pandas
 python-dotenv
+anthropic
